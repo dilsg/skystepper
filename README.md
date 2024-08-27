@@ -1,2 +1,3 @@
 # skystepper
-StepperMotor to autofocus HQ-Cam
+StepperMotor to autofocus HQ-Cam with Web-control
+
